@@ -1,0 +1,36 @@
+running egg_info
+creating ../../build/ros2_drone_sim/ros2_drone_sim.egg-info
+writing ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/PKG-INFO
+writing dependency_links to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/dependency_links.txt
+writing entry points to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/entry_points.txt
+writing requirements to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/requires.txt
+writing top-level names to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/top_level.txt
+writing manifest file '../../build/ros2_drone_sim/ros2_drone_sim.egg-info/SOURCES.txt'
+reading manifest file '../../build/ros2_drone_sim/ros2_drone_sim.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/ros2_drone_sim/ros2_drone_sim.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/build
+creating /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/build/lib
+creating /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/build/lib/ros2_drone_sim
+copying ros2_drone_sim/__init__.py -> /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/build/lib/ros2_drone_sim
+running install
+running install_lib
+creating /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/lib/python3.10/site-packages/ros2_drone_sim
+copying /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/build/lib/ros2_drone_sim/__init__.py -> /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/lib/python3.10/site-packages/ros2_drone_sim
+byte-compiling /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/lib/python3.10/site-packages/ros2_drone_sim/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ament_index
+creating /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ament_index/resource_index
+creating /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ament_index/resource_index/packages
+copying resource/ros2_drone_sim -> /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ament_index/resource_index/packages
+copying package.xml -> /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ros2_drone_sim
+creating /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ros2_drone_sim/worlds
+copying worlds/iris_runway.sdf -> /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ros2_drone_sim/worlds
+copying worlds/gimbal.sdf -> /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ros2_drone_sim/worlds
+copying worlds/zephyr_parachute.sdf -> /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ros2_drone_sim/worlds
+copying worlds/zephyr_runway.sdf -> /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ros2_drone_sim/worlds
+copying worlds/iris_warehouse.sdf -> /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ros2_drone_sim/worlds
+creating /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ros2_drone_sim/models
+error: can't copy 'models/iris_with_ardupilot': doesn't exist or not a regular file
