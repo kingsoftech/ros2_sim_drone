@@ -1,0 +1,22 @@
+[3.352s] Invoking command in '/home/abdullah/ros2_sim_drone/src/ros2_drone_sim': PYTHONPATH=/home/abdullah/ros2_sim_drone/build/ros2_drone_sim/prefix_override:/home/abdullah/ros2_sim_drone/install/ros2_drone_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros2_drone_sim build --build-base /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/build install --record /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/install.log --single-version-externally-managed
+[4.245s] running egg_info
+[4.247s] writing ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/PKG-INFO
+[4.247s] writing dependency_links to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/dependency_links.txt
+[4.247s] writing entry points to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/entry_points.txt
+[4.248s] writing requirements to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/requires.txt
+[4.248s] writing top-level names to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/top_level.txt
+[4.252s] reading manifest file '../../build/ros2_drone_sim/ros2_drone_sim.egg-info/SOURCES.txt'
+[4.252s] adding license file 'LICENSE'
+[4.253s] writing manifest file '../../build/ros2_drone_sim/ros2_drone_sim.egg-info/SOURCES.txt'
+[4.253s] running build
+[4.253s] running build_py
+[4.254s] running install
+[4.254s] running install_lib
+[4.258s] running install_data
+[4.259s] copying launch/gazebo.launch.py -> /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ros2_drone_sim/launch
+[4.260s] running install_egg_info
+[4.264s] removing '/home/abdullah/ros2_sim_drone/install/ros2_drone_sim/lib/python3.10/site-packages/ros2_drone_sim-0.0.0-py3.10.egg-info' (and everything under it)
+[4.265s] Copying ../../build/ros2_drone_sim/ros2_drone_sim.egg-info to /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/lib/python3.10/site-packages/ros2_drone_sim-0.0.0-py3.10.egg-info
+[4.266s] running install_scripts
+[4.315s] writing list of installed files to '/home/abdullah/ros2_sim_drone/build/ros2_drone_sim/install.log'
+[4.357s] Invoked command in '/home/abdullah/ros2_sim_drone/src/ros2_drone_sim' returned '0': PYTHONPATH=/home/abdullah/ros2_sim_drone/build/ros2_drone_sim/prefix_override:/home/abdullah/ros2_sim_drone/install/ros2_drone_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros2_drone_sim build --build-base /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/build install --record /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/install.log --single-version-externally-managed

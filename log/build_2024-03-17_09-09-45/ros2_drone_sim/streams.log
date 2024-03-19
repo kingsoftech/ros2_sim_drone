@@ -1,0 +1,17 @@
+[3.082s] Invoking command in '/home/abdullah/ros2_sim_drone/src/ros2_drone_sim': PYTHONPATH=/home/abdullah/ros2_sim_drone/build/ros2_drone_sim/prefix_override:/home/abdullah/ros2_sim_drone/install/ros2_drone_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros2_drone_sim build --build-base /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/build install --record /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/install.log --single-version-externally-managed
+[3.920s] running egg_info
+[3.921s] writing ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/PKG-INFO
+[3.922s] writing dependency_links to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/dependency_links.txt
+[3.922s] writing entry points to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/entry_points.txt
+[3.922s] writing requirements to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/requires.txt
+[3.922s] writing top-level names to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/top_level.txt
+[3.925s] reading manifest file '../../build/ros2_drone_sim/ros2_drone_sim.egg-info/SOURCES.txt'
+[3.926s] adding license file 'LICENSE'
+[3.927s] writing manifest file '../../build/ros2_drone_sim/ros2_drone_sim.egg-info/SOURCES.txt'
+[3.927s] running build
+[3.927s] running build_py
+[3.927s] running install
+[3.928s] running install_lib
+[3.932s] running install_data
+[3.933s] error: can't copy 'models/iris_with_ardupilot': doesn't exist or not a regular file
+[3.965s] Invoked command in '/home/abdullah/ros2_sim_drone/src/ros2_drone_sim' returned '1': PYTHONPATH=/home/abdullah/ros2_sim_drone/build/ros2_drone_sim/prefix_override:/home/abdullah/ros2_sim_drone/install/ros2_drone_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros2_drone_sim build --build-base /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/build install --record /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/install.log --single-version-externally-managed

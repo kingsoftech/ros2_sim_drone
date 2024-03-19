@@ -1,0 +1,38 @@
+[3.111s] Invoking command in '/home/abdullah/ros2_sim_drone/src/ros2_drone_sim': PYTHONPATH=/home/abdullah/ros2_sim_drone/build/ros2_drone_sim/prefix_override:/home/abdullah/ros2_sim_drone/install/ros2_drone_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros2_drone_sim build --build-base /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/build install --record /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/install.log --single-version-externally-managed
+[4.071s] running egg_info
+[4.072s] creating ../../build/ros2_drone_sim/ros2_drone_sim.egg-info
+[4.072s] writing ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/PKG-INFO
+[4.072s] writing dependency_links to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/dependency_links.txt
+[4.072s] writing entry points to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/entry_points.txt
+[4.073s] writing requirements to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/requires.txt
+[4.073s] writing top-level names to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/top_level.txt
+[4.073s] writing manifest file '../../build/ros2_drone_sim/ros2_drone_sim.egg-info/SOURCES.txt'
+[4.075s] reading manifest file '../../build/ros2_drone_sim/ros2_drone_sim.egg-info/SOURCES.txt'
+[4.076s] adding license file 'LICENSE'
+[4.077s] writing manifest file '../../build/ros2_drone_sim/ros2_drone_sim.egg-info/SOURCES.txt'
+[4.077s] running build
+[4.077s] running build_py
+[4.077s] creating /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/build
+[4.078s] creating /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/build/lib
+[4.078s] creating /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/build/lib/ros2_drone_sim
+[4.078s] copying ros2_drone_sim/__init__.py -> /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/build/lib/ros2_drone_sim
+[4.078s] running install
+[4.078s] running install_lib
+[4.079s] creating /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/lib/python3.10/site-packages/ros2_drone_sim
+[4.079s] copying /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/build/lib/ros2_drone_sim/__init__.py -> /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/lib/python3.10/site-packages/ros2_drone_sim
+[4.082s] byte-compiling /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/lib/python3.10/site-packages/ros2_drone_sim/__init__.py to __init__.cpython-310.pyc
+[4.083s] running install_data
+[4.084s] creating /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ament_index
+[4.084s] creating /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ament_index/resource_index
+[4.084s] creating /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ament_index/resource_index/packages
+[4.085s] copying resource/ros2_drone_sim -> /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ament_index/resource_index/packages
+[4.085s] copying package.xml -> /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ros2_drone_sim
+[4.085s] creating /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ros2_drone_sim/worlds
+[4.085s] copying worlds/iris_runway.sdf -> /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ros2_drone_sim/worlds
+[4.086s] copying worlds/gimbal.sdf -> /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ros2_drone_sim/worlds
+[4.086s] copying worlds/zephyr_parachute.sdf -> /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ros2_drone_sim/worlds
+[4.086s] copying worlds/zephyr_runway.sdf -> /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ros2_drone_sim/worlds
+[4.086s] copying worlds/iris_warehouse.sdf -> /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ros2_drone_sim/worlds
+[4.086s] creating /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ros2_drone_sim/models
+[4.087s] error: can't copy 'models/iris_with_ardupilot': doesn't exist or not a regular file
+[4.117s] Invoked command in '/home/abdullah/ros2_sim_drone/src/ros2_drone_sim' returned '1': PYTHONPATH=/home/abdullah/ros2_sim_drone/build/ros2_drone_sim/prefix_override:/home/abdullah/ros2_sim_drone/install/ros2_drone_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros2_drone_sim build --build-base /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/build install --record /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/install.log --single-version-externally-managed

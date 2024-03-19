@@ -25,6 +25,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+        'drone_info_node = ros2_drone_sim.drone_info:main',
         ],
     },
 )
