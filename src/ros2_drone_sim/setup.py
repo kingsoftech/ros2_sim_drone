@@ -28,4 +28,5 @@ setup(
         'drone_info_node = ros2_drone_sim.drone_info:main',
         ],
     },
+  
 )

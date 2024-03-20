@@ -12,6 +12,7 @@ setup.py
 launch/gazebo.launch.py
 resource/ros2_drone_sim
 ros2_drone_sim/__init__.py
+ros2_drone_sim/drone_info.py
 test/test_copyright.py
 test/test_flake8.py
 test/test_pep257.py
