@@ -119,6 +119,21 @@
       <uri>model://iris_with_ardupilot</uri>
       <pose degrees="true">0 0 0.195 0 0 90</pose>
     </include>
+    <model name="my_collada_model">
+      <static>true</static> <!-- Whether the model is static (doesn't move) -->
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <mesh>
+              <uri>/home/abdullah/ros2_sim_drone/src/ros2_drone_sim/meshes/aruco35.dae</uri> <!-- Path to your Collada file -->
+              <!-- Optionally, you can specify scale, if needed -->
+              <scale>0.5 0.5 0.5</scale> 
+            </mesh>
+          </geometry>
+        </visual>
+        <!-- Additional elements like inertial properties, collisions, etc. can be added here -->
+      </link>
+    </model>
 
   </world>
 </sdf>
