@@ -19,5 +19,8 @@ test/test_pep257.py
 worlds/gimbal.sdf
 worlds/iris_runway.sdf
 worlds/iris_warehouse.sdf
+worlds/mav.parm
+worlds/mav.tlog
+worlds/mav.tlog.raw
 worlds/zephyr_parachute.sdf
 worlds/zephyr_runway.sdf

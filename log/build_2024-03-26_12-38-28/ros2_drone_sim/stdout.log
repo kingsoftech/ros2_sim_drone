@@ -1,0 +1,14 @@
+running egg_info
+writing ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/PKG-INFO
+writing dependency_links to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/dependency_links.txt
+writing entry points to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/entry_points.txt
+writing requirements to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/requires.txt
+writing top-level names to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/top_level.txt
+reading manifest file '../../build/ros2_drone_sim/ros2_drone_sim.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/ros2_drone_sim/ros2_drone_sim.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data

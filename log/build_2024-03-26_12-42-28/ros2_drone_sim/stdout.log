@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/PKG-INFO
+writing dependency_links to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/dependency_links.txt
+writing entry points to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/entry_points.txt
+writing requirements to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/requires.txt
+writing top-level names to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/top_level.txt
+reading manifest file '../../build/ros2_drone_sim/ros2_drone_sim.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/ros2_drone_sim/ros2_drone_sim.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+copying worlds/mav.tlog.raw -> /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ros2_drone_sim/worlds
+copying worlds/mav.tlog -> /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ros2_drone_sim/worlds
+running install_egg_info
+removing '/home/abdullah/ros2_sim_drone/install/ros2_drone_sim/lib/python3.10/site-packages/ros2_drone_sim-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/ros2_drone_sim/ros2_drone_sim.egg-info to /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/lib/python3.10/site-packages/ros2_drone_sim-0.0.0-py3.10.egg-info
+running install_scripts
+Installing drone_info_node script to /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/lib/ros2_drone_sim
+writing list of installed files to '/home/abdullah/ros2_sim_drone/build/ros2_drone_sim/install.log'

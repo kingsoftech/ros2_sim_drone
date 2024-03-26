@@ -1,0 +1,19 @@
+[9.720s] Invoking command in '/home/abdullah/ros2_sim_drone/src/ros2_drone_sim': PYTHONPATH=/home/abdullah/ros2_sim_drone/build/ros2_drone_sim/prefix_override:/home/abdullah/ros2_sim_drone/install/ros2_drone_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ros2_drone_sim build --build-base /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/build install --record /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/install.log --single-version-externally-managed install_data
+[14.200s] running egg_info
+[14.206s] writing ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/PKG-INFO
+[14.210s] writing dependency_links to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/dependency_links.txt
+[14.214s] writing entry points to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/entry_points.txt
+[14.217s] writing requirements to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/requires.txt
+[14.220s] writing top-level names to ../../build/ros2_drone_sim/ros2_drone_sim.egg-info/top_level.txt
+[14.229s] reading manifest file '../../build/ros2_drone_sim/ros2_drone_sim.egg-info/SOURCES.txt'
+[14.231s] adding license file 'LICENSE'
+[14.234s] writing manifest file '../../build/ros2_drone_sim/ros2_drone_sim.egg-info/SOURCES.txt'
+[14.238s] running build
+[14.238s] running build_py
+[14.238s] running install
+[14.244s] running install_lib
+[14.257s] running install_data
+[14.259s] copying worlds/mav.parm -> /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ros2_drone_sim/worlds
+[14.262s] copying worlds/iris_runway.sdf -> /home/abdullah/ros2_sim_drone/install/ros2_drone_sim/share/ros2_drone_sim/worlds
+[14.304s] error: can't copy 'worlds/terrain': doesn't exist or not a regular file
+[14.492s] Invoked command in '/home/abdullah/ros2_sim_drone/src/ros2_drone_sim' returned '1': PYTHONPATH=/home/abdullah/ros2_sim_drone/build/ros2_drone_sim/prefix_override:/home/abdullah/ros2_sim_drone/install/ros2_drone_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ros2_drone_sim build --build-base /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/build install --record /home/abdullah/ros2_sim_drone/build/ros2_drone_sim/install.log --single-version-externally-managed install_data
